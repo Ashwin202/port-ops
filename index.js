@@ -21,7 +21,7 @@ const rl = readline.createInterface({
 
 displayMenu()
 
-rl.setPrompt("Enter your choice: ")
+rl.setPrompt("Enter the command: ")
 rl.prompt()
 
 let partialCommand = ""
