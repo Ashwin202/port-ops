@@ -1,4 +1,8 @@
 # Port-Ops
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![npm version](https://badge.fury.io/js/npm.svg)](https://www.npmjs.com/package/port-ops)
+![Year](https://img.shields.io/badge/year-2023-blue)
+
 
 Port-Ops is a Command Line Interface (CLI) tool for managing ports and processes. It allows you to check port availability, list open ports, and kill processes using a specific port.
 
