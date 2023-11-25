@@ -1,6 +1,6 @@
 {
   "name": "port-ops",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A Command Line Interface (CLI) tool for managing ports and processes. Check port availability, list open ports, and kill processes using a specific port.",
   "main": "index.js",
   "scripts": {
