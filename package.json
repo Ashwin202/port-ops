@@ -1,0 +1,29 @@
+{
+  "name": "port-ops",
+  "version": "1.0.4",
+  "description": "A Command Line Interface (CLI) tool for managing ports and processes. Check port availability, list open ports, and kill processes using a specific port.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "port-ops": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "lib/",
+    "bin/"
+  ],
+  "keywords": [
+    "cli",
+    "command-line",
+    "port-management",
+    "process-killer"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "cli-table3": "^0.6.0"
+  }
+}
